@@ -28,7 +28,7 @@ I am currently a fourth-year undergraduate student at Southwestern University of
 ## Awards
 
 - **ACM Chengdu 2023 "Outstanding Undergraduate Student Award"** (Only 5 students in Southwest China) - *10/2023*
-- **Undergraduate National Scholarship** for the academic years 2021-2022, 2022-2023, and 2023-2024 - *10/2022, 10/2023*
+- **Undergraduate National Scholarship** for the academic years 2021-2022, 2022-2023, and 2023-2024 - *10/2022, 10/2023, 10/2024*
 - **Sixth "Gratitude to Chinese Modern Scientists" Scholarship** (Only 12 recipients university-wide) - *10/2023*
 - **2023 ICPC Asia East Continent Final Contest Bronze Medal** (Asia level) - *01/2024*
 - **9th CCPC Chinese Collegiate Programming Contest National Final Bronze Medal** (National level) - *03/2024*
